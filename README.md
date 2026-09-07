@@ -382,9 +382,9 @@ Use the Blynk dashboard to control the robot:
 
 A demonstration of the OjanBot ESP32 wireless control system using the Blynk IoT platform is available below.
 
-**YouTube Demo:**
+[![Watch the OjanBot ESP32 Blynk Control Demo](https://i.ytimg.com/vi/Td1Bp9vUcw8/hqdefault.jpg)](https://youtube.com/shorts/Td1Bp9vUcw8)
 
-[Watch the OjanBot ESP32 Blynk Control Demo](https://youtube.com/shorts/0y8htSiJg7Q)
+**Click the image to watch the demonstration on YouTube.**
 
 ---
 
